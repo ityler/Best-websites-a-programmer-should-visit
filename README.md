@@ -65,22 +65,22 @@ When learning CS there are some useful sites you must know to get always informe
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [DevOpsLinks](http://devopslinks.com/) :  An online community of thousands of developers and IT experts interested in DevOps
+- [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
 
 
 ## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
 - [Exercism.io](http://exercism.io) : download and solve practice problems in over 30 different languages, and share your solution with others.
 - [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) Solutions to most of the problems in the link above
+- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
 - [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
 - [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
 - [People Can Program](https://www.peoplecanprogram.com) : The most user-friendly code learning application on the internet.
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing 
+- [Vim adventures](https://vim-adventures.com) : Learn VIM by playing 
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -91,14 +91,14 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## General Coding advice
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) :  What I’ve learned from teaching others
-- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) :  The Codist Header Lessons From A Lifetime Of Being A Programmer  
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) : The Principles of Good Programming
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming 
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well 
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
 - [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/) : Stephen Haunts { Coding in the Trenches }
-- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev ! 
+- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev! 
 - [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
@@ -110,13 +110,13 @@ When learning CS there are some useful sites you must know to get always informe
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
-- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
-- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
-- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
-- [Stuff you need to Code Better!](http://codebetter.com)
-- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
+- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
+- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
+- [Stuff you need to Code Better!](http://codebetter.com) : Stuff that will help you
+- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science) : Free online CS courses
+- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
    
    
@@ -188,7 +188,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Documentaries
 - Machine that Changed the World - a very good documentary about history of computers
-  - [Part 1: Giant Brains](https://www.youtube.com/watch?v=rcR74y61xZk)
+  - Part 1 is unavailable for free streaming due to widespread copyright claims.
   - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
   - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
@@ -225,7 +225,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## Sites related to your preferred programming language (For me Java)
 - [Java Revisited](http://javarevisited.blogspot.in) : good for learning about Java Language and interview preparation.
-- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
+- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) : The best tutorials for Java.
 - [Java Corner at Artima.com](http://www.artima.com/java/index.html)
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
 - [Java Lecture Notes](http://www.cafeaulait.org/course/)
@@ -294,7 +294,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
 - [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
-
+- [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : Awesome reverse engineering and hacking(CTF) videocasts. Every wednesday are new live streams.
 
 ## Good Articles
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -312,7 +312,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
-- [Data structure and Algoritms ](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
+- [Data structure and Algoritms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : List of some algoritms and datastructure with their solutions.
 
 
 ## Podcasts
@@ -327,6 +327,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [The Bike Shed](http://bikeshed.fm) : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.
 - [The Changelog](https://changelog.com/podcast) : A weekly conversation that gets to the heart of open source technologies and the people who create them.
 - [Front End Happy Hour](http://frontendhappyhour.com) : A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+- [React Native Radio](https://devchat.tv/react-native-radio) : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.
 
 
 ## Building a Simple Compiler/Interpreter
@@ -390,7 +391,7 @@ When learning CS there are some useful sites you must know to get always informe
 ## What should a programmer know
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 - [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively)
-- [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com).
+- [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://about.gitlab.com)
 
 
 ## Competitive programming
@@ -406,7 +407,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com)
 - [Art of Problem Solving](https://artofproblemsolving.com)
-- [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
 - [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codefights](https://codefights.com) : Test your coding skills
@@ -440,7 +440,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages 
 - [Pastebin.com](https://pastebin.com)
-- [Godbolt.org](https://godbolt.org): Excellent tool for exploring the assembly output of different compilers with and without optimization.
+- [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 
 
 ## Blogs of Developers
@@ -474,7 +474,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com)
 - [Daedtech.com](http://www.daedtech.com) : Stories about software
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
-- [rudhakar Rayavaram](http://sudhakar.online) :  Sudhakar Rayavaram Blog's
+- [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 
 
 ## For improving your English
